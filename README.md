@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
- Front End Developer
+ Full-Stack Developer & UI/UX Designer
 </p>
 
 
