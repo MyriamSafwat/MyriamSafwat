@@ -107,10 +107,6 @@ I deeply enjoy sharing knowledge, mentoring aspiring developers, and contributin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=myriamsafwat&theme=react-dark" width="100%" />
 </p>
 
-<p align="center">
-  <!-- Contribution Snake Dynamic Grid -->
-  <img src="https://raw.githubusercontent.com/myriamsafwat/myriamsafwat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="70%" />
-</p>
 
 <div align="center">
   <!-- Trophies Clean View -->
