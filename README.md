@@ -108,11 +108,6 @@ I deeply enjoy sharing knowledge, mentoring aspiring developers, and contributin
 </p>
 
 
-<div align="center">
-  <!-- Trophies Clean View -->
-  <img src="https://github-profile-trophy.vercel.app/?username=myriamsafwat&theme=onedark&no-frame=true&margin-w=4&margin-h=4" />
-</div>
-
 ---
 
 <!-- Resume & Contact Section -->
